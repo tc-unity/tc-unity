@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d5c093a93b4c44541820ed5f73c9dcfd
+timeCreated: 1542421731
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Arita
+  fontNames:
+  - Arita
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

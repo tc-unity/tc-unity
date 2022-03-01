@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: af9b342b06417fb4cafb9a9286780bc4
+timeCreated: 1542421712
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Daum
+  fontNames:
+  - Daum
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

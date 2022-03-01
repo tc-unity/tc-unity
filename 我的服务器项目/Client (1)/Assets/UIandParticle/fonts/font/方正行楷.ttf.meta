@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d8773dcafc7999d4bb425537e5338787
+timeCreated: 1542421732
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FZXingKai-S04S
+  fontNames:
+  - FZXingKai-S04S
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7c66882b4f444ae42b930e6a908086fe, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<Hero id="1001" profession="抢手" name="萌妹子" maxHp="500" maxMp="100" maxExp="200" hurt="88" armor="35" lv="1" />
+</Root>

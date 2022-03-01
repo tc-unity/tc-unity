@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<Monster id="1001" name="小怪" maxHp="100"  hurt="88"/>
+	<Monster id="1002" name="Boss" maxHp="200"  hurt="88"/>
+</Root>

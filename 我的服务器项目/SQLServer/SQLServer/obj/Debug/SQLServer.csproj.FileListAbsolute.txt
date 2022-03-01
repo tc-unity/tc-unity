@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\SQLServer\SQLServer\bin\Debug\SQLServer.exe.config
+C:\Users\Administrator\Desktop\SQLServer\SQLServer\bin\Debug\SQLServer.exe
+C:\Users\Administrator\Desktop\SQLServer\SQLServer\bin\Debug\SQLServer.pdb
+C:\Users\Administrator\Desktop\SQLServer\SQLServer\obj\Debug\SQLServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SQLServer\SQLServer\obj\Debug\SQLServer.exe
+C:\Users\Administrator\Desktop\SQLServer\SQLServer\obj\Debug\SQLServer.pdb
+C:\Users\HZ\Desktop\2019年10月22日搭建服务器框架（3）\课堂代码\SQLServer\SQLServer\bin\Debug\SQLServer.exe.config
+C:\Users\HZ\Desktop\2019年10月22日搭建服务器框架（3）\课堂代码\SQLServer\SQLServer\obj\Debug\SQLServer.exe
+C:\Users\HZ\Desktop\2019年10月22日搭建服务器框架（3）\课堂代码\SQLServer\SQLServer\obj\Debug\SQLServer.pdb
